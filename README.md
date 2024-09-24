@@ -1,3 +1,8 @@
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=AditiPandey568)
+
+
 ### Hi👋, I'm Aditi Pandey.
 
 A passionate learner pursuing my Bachelor's Degree with specialization in DevOps in India.
